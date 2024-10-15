@@ -1,0 +1,32 @@
+baseURL = 'https://sanderfrenken.github.io/'
+languageCode = 'en-us'
+title = 'Battledom'
+theme = 'gokarna'
+enableEmoji = true
+
+[params]
+  footer = "Sander Frenken"
+  description = ""
+  avatarURL = "https://sanderfrenken.github.io/dev-blog/static/icon.png"
+  AvatarAltText = "avatar"
+  avatarSize = "size-m"
+  ShowBackToTopButton = true
+  showPostsOnHomePage = ""
+
+  socialIcons = [
+    {name = "reddit", url = "https://www.reddit.com/r/battledom/"},
+    {name = "discord", url = "https://discord.gg/SKDS5VK2"},
+  ]
+  metaKeywords = ["blog", "spritekit", "game developer"]
+
+  [menu]
+    [[menu.main]]
+      name = "Home"
+      pre = "<span data-feather='home'></span>"
+      url = "/"
+      weight = 1
+    [[menu.main]]
+      name = "Presskit"
+      pre = "<span data-feather='code'></span>"
+      url = "/presskit/"
+      weight = 2
