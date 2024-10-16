@@ -4,6 +4,9 @@ title = 'Battledom'
 theme = 'gokarna'
 enableEmoji = true
 
+[markup.goldmark.renderer]
+  unsafe = true
+  
 [params]
   footer = "Sander Frenken"
   description = ""

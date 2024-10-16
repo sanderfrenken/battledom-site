@@ -9,7 +9,7 @@ showTableOfContents: true
 
 - **Developer:** Sander Frenken (Amsterdam, Netherlands)
 
-- **Release Date:** Q1 2025 [Alpha via TestFlight available here]()
+- **Release Date:** Q1 2025 [Alpha via TestFlight available here](https://testflight.apple.com/join/IsXcGtGR)
 
 - **Platforms:** iOS
 
@@ -92,7 +92,9 @@ N/A
 
 ## About me
 
-I am a game developer when I don't work my daytime job as an iOS engineer at a large bank in the Netherlands or trying to entertain my 2 little ones Oliver and Elisa or spending time with my wife, Fabienne.
+I am a game developer when I don't work my daytime job as an iOS engineer at a large bank in the Netherlands. 
+
+What also keeps me busy us trying to entertain my 2 little ones Oliver and Elisa and spending time with my lovely wife, Fabienne.
 
 You can find me more about me and my drives [here on my personal blog space](https://sanderfrenken.github.io/dev-blog/posts/welcome/).
 
@@ -102,4 +104,4 @@ You can find me more about me and my drives [here on my personal blog space](htt
 
 - [**Mail**](mailto:rednasgamesinfo@gmail.com)
 
-- [**Discord**](https://discord.gg/SKDS5VK2)
+- [**Discord**](https://discord.com/users/478807114752589825)
