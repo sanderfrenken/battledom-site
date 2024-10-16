@@ -18,7 +18,7 @@ enableEmoji = true
 
   socialIcons = [
     {name = "reddit", url = "https://www.reddit.com/r/battledom/"},
-    {name = "discord", url = "https://discord.gg/SKDS5VK2"},
+    {name = "discord", url = "https://discord.gg/3SDfGy7zSR"},
   ]
   metaKeywords = ["blog", "spritekit", "game developer"]
 
