@@ -42,7 +42,7 @@ In Q3 2024 Battledom was nearing completion, at least mechanic wise. At this sta
 
 ## Videos
 
-{{< youtube EpFoGLOEvDA >}}
+{{< youtube 0y0pernS0Gc >}}
 
 ## Images
 
