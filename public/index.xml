@@ -21,5 +21,12 @@
       <guid>http://localhost:1313/presskit/</guid>
       <description>Factsheet Developer: Sander Frenken (Amsterdam, Netherlands)&#xA;Release Date: Q1 2025 Alpha via TestFlight available here&#xA;Platforms: iOS&#xA;Pricing: TBD&#xA;Description Battledom is an iOS game I started developing October 2022 and is currently in an alpha testing stage.&#xA;It’s an RTS-lite game that involves resource management and real time battles. I see it as an Age Of Empires lite, designed with mobile gaming in mind.&#xA;History I started Battledom development in 2022.</description>
     </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>This privacy policy governs your use of the software application Battledom (“Application”) for mobile devices that was created by Sander Frenken. The Application is a strategic tower defense game.&#xA;User Provided Information The developer is neither collecting nor storing any user provided information.&#xA;Automatically Collected Information The developer is neither collecting nor storing any user information. During usage, the application is collecting game data, which is data presenting the current state of your playthrough.</description>
+    </item>
   </channel>
 </rss>
