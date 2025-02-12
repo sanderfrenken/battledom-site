@@ -3,24 +3,27 @@ type: page
 showTableOfContents: true
 ---
 
-{{< figure src="startscene.png" width="1000" >}}
+{{< figure src="images/screenshot-start_1.png" width="1000" >}}
 
 ## Factsheet
 
 - **Developer:** Sander Frenken (Amsterdam, Netherlands)
 
-- **Release Date:** Q1 2025 [Alpha via TestFlight available here](https://testflight.apple.com/join/IsXcGtGR)
+- **Release Date:** Q2 2025 [Alpha via TestFlight available here](https://testflight.apple.com/join/IsXcGtGR)
 
-- **Platforms:** iOS
+- **Platforms:** iOS/ iPadOS
 
 - **Pricing:** TBD
 
 ## Description
 
-Battledom is an iOS game I started developing October 2022 and is currently in an alpha testing stage. 
+Battledom is an iOS game in development since October 2022. Battledom is currently in an alpha testing stage. 
 
-It’s an RTS-lite game that involves resource management and real time battles. 
-I see it as an Age Of Empires lite, designed with mobile gaming in mind.
+Battledom is best described as an RTS-lite game that involves resource management and real time battles.
+
+Its designed with mobile/ tablet usage on top of mind. One can play Battledom for short periods of time and still make progress, while longer periods of time can also be spent continuously.
+
+I see Battledom as an homage to the classic RTS genre, but now designed with mobile gaming in mind.
 
 ## History
 
@@ -30,45 +33,49 @@ Using [GamePlayKit](https://developer.apple.com/documentation/gameplaykit), I wa
 
 It was this mechanic that I expanded upon, and led to the foundation of Battledom: a simple mobile RTS. For the resource management part I took my inspiration from various idle games, which I think fits well for a mobile RTS: one can easily pick and play for a couple of minutes, gather some resources, and come back later.
 
-In Q3 2024 Battledom was nearing completion, at least mechanic wise. At this stage, play testing has started and the focus is on adding additional content.
+In Q4 2024 Battledom was nearing completion, at least mechanic wise. At this stage, play testing has started and the focus is on adding additional content.
 
 ## Features
 
 - Real time battle mechanics. Command your armies to victory!
 
-- Build your own characters using 1000+ different assets
+- Build your own army using 1000+ different assets
+
+- Controllable siege weapons
+
+- Variety of animal units to surprise your enemies with
 
 - Harvest resources for your empire at the farmlands, mines and woodlands
 
 ## Videos
 
+{{< youtube ZecfzsuEKZw >}}
+
 {{< youtube 0y0pernS0Gc >}}
 
 ## Images
 
-{{< figure src="script_2.png" width="800" >}}
-
-{{< figure src="rendered_map_example.png" width="800" >}}
-
-{{< figure src="castle_1.png" width="800" >}}
-
-{{< figure src="castle_2.png" width="800" >}}
-
-{{< figure src="script_1.png" width="800" >}}
-
-{{< figure src="woodlands.png" width="800" >}}
-
-{{< figure src="blacksmith.png" width="800" >}}
-
-{{< figure src="startscene_secret.png" width="800" >}}
+{{< figure src="images/screenshot-start_1.png" width="800" >}}
+{{< figure src="images/screenshot-start_2.png" width="800" >}}
+{{< figure src="images/screenshot-script_1.png" width="800" >}}
+{{< figure src="images/screenshot-script_2.png" width="800" >}}
+{{< figure src="images/screenshot-script_5.png" width="800" >}}
+{{< figure src="images/screenshot-script_6.png" width="800" >}}
+{{< figure src="images/screenshot-village_overview_1.png" width="800" >}}
+{{< figure src="images/village-stores.png" width="800" >}}
+{{< figure src="images/screenshot-village_overview_2.png" width="800" >}}
+{{< figure src="images/village-menus.png" width="800" >}}
+{{< figure src="images/screenshot-village_overview_3.png" width="800" >}}
+{{< figure src="images/screenshot-game-still-combi-1.png" width="800" >}}
+{{< figure src="images/screenshot-game-still-combi-2.png" width="800" >}}
 
 ## Logo
 
-{{< figure src="icon.png" width="400" >}}
+{{< figure src="images/icon.png" width="400" >}}
 
 ## Downloads
 
-Download all files as a [.zip here](presskit.zip)
+Download all files as a [.zip here](images/presskit.zip)
 
 ## Awards & Recognition
 
@@ -80,7 +87,7 @@ N/A
 
 ## Additional Links
 
-- **Opensourced character generator:** All character artwork for Herodom is available [here](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=bauldric) to experiment with. Sources are available [here](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator).
+- **Opensourced character generator:** All character artwork for Battledom is available [here](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light) to experiment with. Sources are available [here](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator).
 
 - **Opensourced SpriteKit components:** Making games is time consuming. I open sourced some of the components for Battledom. Addional SpriteKit components can be found [here](https://github.com/sanderfrenken/MoreSpriteKit). 
 

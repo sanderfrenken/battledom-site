@@ -1,11 +1,10 @@
 <div style="text-align: center">
-    <br>
+    <p>Join the Alpha via TestFlight:</p>
     <a href="https://testflight.apple.com/join/IsXcGtGR">
-        Join the Alpha via TestFlight
+        <img src="testflight-icon.png" alt="TestFlight" width="128" height="128">
     </a>
 </div>
 <br>
 <br>
 
-
-{{< youtube 0y0pernS0Gc >}}
+{{< youtube ZecfzsuEKZw >}}
