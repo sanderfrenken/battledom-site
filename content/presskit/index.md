@@ -66,11 +66,13 @@ In Q4 2024 Battledom was nearing completion, at least mechanic wise. At this sta
 {{< figure src="images/screenshot-game-active-15.png" width="800" >}}
 {{< figure src="images/screenshot-village_overview_2.png" width="800" >}}
 {{< figure src="images/screenshot-script_combi.png" width="800" >}}
+{{< figure src="images/sceenshot-farmlands_2.png" width="800" >}}
 {{< figure src="images/character-create.png" width="800" >}}
 {{< figure src="images/village-menus.png" width="800" >}}
 {{< figure src="images/screenshot-game-active-1.png" width="800" >}}
 {{< figure src="images/screenshot-game-active-2.png" width="800" >}}
 {{< figure src="images/screenshot-game-active-4.png" width="800" >}}
+{{< figure src="images/screenshot-woodlands-combi.png" width="800" >}}
 {{< figure src="images/screenshot-game-still-combi-2.png" width="800" >}}
 {{< figure src="images/screenshot-game-still-combi-3.png" width="800" >}}
 {{< figure src="images/screenshot-game-still-combi-4.png" width="800" >}}
@@ -82,7 +84,15 @@ In Q4 2024 Battledom was nearing completion, at least mechanic wise. At this sta
 
 ## Downloads
 
-Download all files as a [.zip here](images/presskit.zip)
+Download all images from zips here:
+
+[part 1 here](images/presskit_part_1.zip)
+
+[part 2 here](images/presskit_part_2.zip)
+
+[part 3 here](images/presskit_part_3.zip)
+
+[part 4 here](images/presskit_part_4.zip)
 
 ## Awards & Recognition
 
