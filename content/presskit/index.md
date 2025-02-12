@@ -55,19 +55,26 @@ In Q4 2024 Battledom was nearing completion, at least mechanic wise. At this sta
 
 ## Images
 
-{{< figure src="images/screenshot-start_1.png" width="800" >}}
-{{< figure src="images/screenshot-start_2.png" width="800" >}}
-{{< figure src="images/screenshot-script_1.png" width="800" >}}
 {{< figure src="images/screenshot-script_2.png" width="800" >}}
-{{< figure src="images/screenshot-script_5.png" width="800" >}}
-{{< figure src="images/screenshot-script_6.png" width="800" >}}
-{{< figure src="images/screenshot-village_overview_1.png" width="800" >}}
-{{< figure src="images/village-stores.png" width="800" >}}
-{{< figure src="images/screenshot-village_overview_2.png" width="800" >}}
-{{< figure src="images/village-menus.png" width="800" >}}
-{{< figure src="images/screenshot-village_overview_3.png" width="800" >}}
 {{< figure src="images/screenshot-game-still-combi-1.png" width="800" >}}
+{{< figure src="images/screenshot-script_9.png" width="800" >}}
+{{< figure src="images/screenshot-game-active-8.png" width="800" >}}
+{{< figure src="images/screenshot-script_6.png" width="800" >}}
+{{< figure src="images/sceenshot-farmlands_1.png" width="800" >}}
+{{< figure src="images/village-stores.png" width="800" >}}
+{{< figure src="images/screenshot-game-active-9.png" width="800" >}}
+{{< figure src="images/screenshot-game-active-15.png" width="800" >}}
+{{< figure src="images/screenshot-village_overview_2.png" width="800" >}}
+{{< figure src="images/screenshot-script_combi.png" width="800" >}}
+{{< figure src="images/character-create.png" width="800" >}}
+{{< figure src="images/village-menus.png" width="800" >}}
+{{< figure src="images/screenshot-game-active-1.png" width="800" >}}
+{{< figure src="images/screenshot-game-active-2.png" width="800" >}}
+{{< figure src="images/screenshot-game-active-4.png" width="800" >}}
 {{< figure src="images/screenshot-game-still-combi-2.png" width="800" >}}
+{{< figure src="images/screenshot-game-still-combi-3.png" width="800" >}}
+{{< figure src="images/screenshot-game-still-combi-4.png" width="800" >}}
+{{< figure src="images/screenshot-start_2.png" width="800" >}}
 
 ## Logo
 
