@@ -118,7 +118,7 @@ N/A
 
 I am a game developer when I don't work my daytime job as an iOS engineer at a large bank in the Netherlands. 
 
-What also keeps me busy us trying to entertain my 2 little ones Oliver and Elisa and spending time with my lovely wife, Fabienne.
+What also keeps me busy is trying to entertain my 2 little ones Oliver and Elisa and spending time with my lovely wife, Fabienne.
 
 You can find me more about me and my drives [here on my personal blog space](https://sanderfrenken.github.io/dev-blog/posts/welcome/).
 
