@@ -9,7 +9,7 @@ showTableOfContents: true
 
 - **Developer:** Sander Frenken (Amsterdam, Netherlands)
 
-- **Release Date:** Q2 2025
+- **Release Date:** Q3 2025
 
     [Alpha via TestFlight available here](https://testflight.apple.com/join/IsXcGtGR)
 
@@ -19,23 +19,31 @@ showTableOfContents: true
 
 ## Description
 
-Battledom is an iOS game in development since October 2022. Battledom is currently in beta testing stage. 
+Battledom is an iOS game that has been in development since October 2022 and is currently in the beta testing stage. 
+So far, around 200 people have had the chance to play it.
 
-Battledom is best described as an RTS-lite game that involves resource management and real time battles.
+Battledom is a unique RTS-like game that combines resource management with real-time battle mechanics. Players can engage in large-scale battles on expansive maps, commanding hundreds of soldiers. 
 
-In Battledom you can play on large maps of 300*300 tiles with hundreds of soldiers to control and battle with. Next to that, you can deploy siege weapons and control them directly to target enemies. 
+Additionally, the player can deploy and directly control siege weapons to target enemies. The game focuses on either actively attacking and defeating opponents or defending against them for as long as possible. 
+Currently, the enemy is controlled by the computer, as multiplayer functionality is not (yet) planned.
 
-You can design your own soldiers, where the equipment (including weapons, armour and shields) deployed determines the stats of your soldiers. There are more than 1000 different assets that one can equip on their soldiers.
+The core of Battledom lies in its battle mechanics, but there's much more to explore. The player can design their own soldiers, choosing from over 1,000 different assets, including weapons, armor, and shields, which determine their stats. 
 
-Battledom is designed with mobile/ tablet usage on top of mind. One can play Battledom for short periods of time and still make progress, while longer periods of time can also be spent continuously.
+To create equipment like swords, armour, and magic staffs, players must gather resources from various sources such as farmlands, woodlands and mines. These resources can also be traded for other resources or coins, which can be used to upgrade structures within the supply chain, including a blacksmith, a siege workshop, and an university.
 
-The resource management is based on idle game mechanics, with the addition that one can actively engage to speed up the resource gathering.
+Battledom is optimized for mobile and tablet use, allowing players to make progress in short sessions or engage for longer periods. The resource management aspect of the game is based on idle game mechanics, with the option to actively speed up resource gathering. Additionally, players can enjoy an endless defense mode on randomly generated maps to earn resources and achieve high rankings using GKLeaderBoard.
 
-I see Battledom as an homage to the classic RTS genre, but designed with mobile gaming in mind.
+Battledom pays homage to the classic RTS genre while being tailored for mobile gaming. The initial release will feature a campaign mode with 20 different stages, with the storyline presented through in-game scripted visuals that utilize the battle engine for full-scale battles. The endless defense mode offers additional, limitless fun.
 
-Battledom is fully written in Swift, leveraging [SpriteKit](https://developer.apple.com/documentation/spritekit/) and [GamePlayKit](https://developer.apple.com/documentation/gameplaykit) for game related mechanics and rendering. Part of the toolset that I have written to develop Battledom is opensourced (see [here](https://sanderfrenken.github.io/battledom-site/presskit/#selected-articles)).
+The game is fully developed in Swift, utilizing [SpriteKit](https://developer.apple.com/documentation/spritekit/) and [GamePlayKit](https://developer.apple.com/documentation/gameplaykit) for game mechanics and rendering. Some of the tools created for Battledom's development are open-sourced and available [here](https://sanderfrenken.github.io/battledom-site/presskit/#selected-articles).
 
-Using native Apple language allows me to deliver a very performant system and potentially allows for easy portability to MacOS and tvOS. 
+Using native Apple languages ensures high performance and potential ease of portability to macOS and tvOS.
+
+The development of Battledom is entirely managed by me, Sander Frenken. Freelancers are responsible for creating the artwork and sounds. I am aiming for a release in Q3 2025. At present, my focus is on optimization, balancing, and content creation, as the core of the game is largely complete.
+
+When I'm not working as a part-time iOS engineer at a bank in the Netherlands, I dedicate my time to game development. My most important and fulfilling roles, however, are entertaining my two little ones and spending quality time with my wife.
+
+You can learn more about me and my passion for game development on my [personal blog](https://sanderfrenken.github.io/dev-blog).
 
 ## History
 
@@ -104,6 +112,8 @@ Download all images from zips here:
 [part 2 here](images/presskit_part_2.zip)
 
 [part 3 here](images/presskit_part_3.zip)
+
+[PDF](images/screenshots_battledom.pdf)
 
 ## Awards & Recognition
 
