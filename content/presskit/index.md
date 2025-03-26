@@ -23,9 +23,19 @@ Battledom is an iOS game in development since October 2022. Battledom is current
 
 Battledom is best described as an RTS-lite game that involves resource management and real time battles.
 
-It is designed with mobile/ tablet usage on top of mind. One can play Battledom for short periods of time and still make progress, while longer periods of time can also be spent continuously.
+In Battledom you can play on large maps of 300*300 tiles with hundreds of soldiers to control and battle with. Next to that, you can deploy siege weapons and control them directly to target enemies. 
+
+You can design your own soldiers, where the equipment (including weapons, armour and shields) deployed determines the stats of your soldiers. There are more than 1000 different assets that one can equip on their soldiers.
+
+Battledom is designed with mobile/ tablet usage on top of mind. One can play Battledom for short periods of time and still make progress, while longer periods of time can also be spent continuously.
+
+The resource management is based on idle game mechanics, with the addition that one can actively engage to speed up the resource gathering.
 
 I see Battledom as an homage to the classic RTS genre, but designed with mobile gaming in mind.
+
+Battledom is fully written in Swift, leveraging [SpriteKit](https://developer.apple.com/documentation/spritekit/) and [GamePlayKit](https://developer.apple.com/documentation/gameplaykit) for game related mechanics and rendering. Part of the toolset that I have written to develop Battledom is opensourced (see [here](https://sanderfrenken.github.io/battledom-site/presskit/#selected-articles)).
+
+Using native Apple language allows me to deliver a very performant system and potentially allows for easy portability to MacOS and tvOS. 
 
 ## History
 
@@ -33,9 +43,11 @@ I started Battledom development in 2022. It started as an experiment: After the 
 
 Using [GamePlayKit](https://developer.apple.com/documentation/gameplaykit), I was able to create a performant system that enabled me to control larger groups of units. Steering their behavior with different actions, I was enjoying myself guiding my armies through large maps, looking for enemies to defeat.
 
-It was this mechanic that I expanded upon, and led to the foundation of Battledom: a simple mobile RTS. For the resource management part I took my inspiration from various idle games, which I fits very well for a mobile RTS: one can easily pick and play for a couple of minutes, gather some resources, and come back later.
+It was this mechanic that I expanded upon, and led to the foundation of Battledom: a mobile RTS.
 
-In Q1 2025 Battledom was nearing completion, at least mechanic wise. Since then, play testing has started and the focus is on adding additional content.
+For the resource management part I took my inspiration from various idle games, which I fits very well for a mobile RTS: one can easily pick and play for a couple of minutes, gather some resources, and come back later.
+
+Now in Q1 2025 Battledom is nearing completion, at least mechanic wise. Play testing has started in Q4 2024. The current focus is on adding additional content and processing the feedback received.
 
 ## Features
 
@@ -115,9 +127,9 @@ N/A
 
 ## About me
 
-I am a game developer when I don't work my daytime job as an iOS engineer at a bank in the Netherlands. 
+I am a part-time game developer when I don't work my other job as an iOS engineer at a bank in the Netherlands.
 
-Most important, what also keeps me busy is trying to entertain my 2 little ones Oliver and Elisa and spending time with my lovely wife, Fabienne.
+Most important, what also keeps me busy is trying to entertain my two little ones: Oliver and Elisa. And spending time with my lovely wife, Fabienne.
 
 You can find me more about me and my drives [here on my personal blog space](https://sanderfrenken.github.io/dev-blog).
 
