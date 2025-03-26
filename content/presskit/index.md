@@ -9,7 +9,9 @@ showTableOfContents: true
 
 - **Developer:** Sander Frenken (Amsterdam, Netherlands)
 
-- **Release Date:** Q2 2025 [Alpha via TestFlight available here](https://testflight.apple.com/join/IsXcGtGR)
+- **Release Date:** Q2 2025
+
+    [Alpha via TestFlight available here](https://testflight.apple.com/join/IsXcGtGR)
 
 - **Platforms:** iOS/ iPadOS
 
@@ -17,13 +19,13 @@ showTableOfContents: true
 
 ## Description
 
-Battledom is an iOS game in development since October 2022. Battledom is currently in an alpha testing stage. 
+Battledom is an iOS game in development since October 2022. Battledom is currently in beta testing stage. 
 
 Battledom is best described as an RTS-lite game that involves resource management and real time battles.
 
-Its designed with mobile/ tablet usage on top of mind. One can play Battledom for short periods of time and still make progress, while longer periods of time can also be spent continuously.
+It is designed with mobile/ tablet usage on top of mind. One can play Battledom for short periods of time and still make progress, while longer periods of time can also be spent continuously.
 
-I see Battledom as an homage to the classic RTS genre, but now designed with mobile gaming in mind.
+I see Battledom as an homage to the classic RTS genre, but designed with mobile gaming in mind.
 
 ## History
 
@@ -31,9 +33,9 @@ I started Battledom development in 2022. It started as an experiment: After the 
 
 Using [GamePlayKit](https://developer.apple.com/documentation/gameplaykit), I was able to create a performant system that enabled me to control larger groups of units. Steering their behavior with different actions, I was enjoying myself guiding my armies through large maps, looking for enemies to defeat.
 
-It was this mechanic that I expanded upon, and led to the foundation of Battledom: a simple mobile RTS. For the resource management part I took my inspiration from various idle games, which I think fits well for a mobile RTS: one can easily pick and play for a couple of minutes, gather some resources, and come back later.
+It was this mechanic that I expanded upon, and led to the foundation of Battledom: a simple mobile RTS. For the resource management part I took my inspiration from various idle games, which I fits very well for a mobile RTS: one can easily pick and play for a couple of minutes, gather some resources, and come back later.
 
-In Q4 2024 Battledom was nearing completion, at least mechanic wise. At this stage, play testing has started and the focus is on adding additional content.
+In Q1 2025 Battledom was nearing completion, at least mechanic wise. Since then, play testing has started and the focus is on adding additional content.
 
 ## Features
 
@@ -46,6 +48,8 @@ In Q4 2024 Battledom was nearing completion, at least mechanic wise. At this sta
 - Variety of animal units to surprise your enemies with
 
 - Harvest resources for your empire at the farmlands, mines and woodlands
+
+- Endless mode with random generated maps for endless combat fun!
 
 ## Videos
 
@@ -69,12 +73,9 @@ In Q4 2024 Battledom was nearing completion, at least mechanic wise. At this sta
 {{< figure src="images/sceenshot-farmlands_2.png" width="800" >}}
 {{< figure src="images/character-create.png" width="800" >}}
 {{< figure src="images/village-menus.png" width="800" >}}
-{{< figure src="images/screenshot-game-active-1.png" width="800" >}}
 {{< figure src="images/screenshot-game-active-2.png" width="800" >}}
 {{< figure src="images/screenshot-game-active-4.png" width="800" >}}
 {{< figure src="images/screenshot-woodlands-combi.png" width="800" >}}
-{{< figure src="images/screenshot-game-still-combi-2.png" width="800" >}}
-{{< figure src="images/screenshot-game-still-combi-3.png" width="800" >}}
 {{< figure src="images/screenshot-game-still-combi-4.png" width="800" >}}
 {{< figure src="images/screenshot-start_2.png" width="800" >}}
 
@@ -91,8 +92,6 @@ Download all images from zips here:
 [part 2 here](images/presskit_part_2.zip)
 
 [part 3 here](images/presskit_part_3.zip)
-
-[part 4 here](images/presskit_part_4.zip)
 
 ## Awards & Recognition
 
@@ -116,11 +115,11 @@ N/A
 
 ## About me
 
-I am a game developer when I don't work my daytime job as an iOS engineer at a large bank in the Netherlands. 
+I am a game developer when I don't work my daytime job as an iOS engineer at a bank in the Netherlands. 
 
-What also keeps me busy is trying to entertain my 2 little ones Oliver and Elisa and spending time with my lovely wife, Fabienne.
+Most important, what also keeps me busy is trying to entertain my 2 little ones Oliver and Elisa and spending time with my lovely wife, Fabienne.
 
-You can find me more about me and my drives [here on my personal blog space](https://sanderfrenken.github.io/dev-blog/posts/welcome/).
+You can find me more about me and my drives [here on my personal blog space](https://sanderfrenken.github.io/dev-blog).
 
 ## Contact
 
@@ -129,3 +128,5 @@ You can find me more about me and my drives [here on my personal blog space](htt
 - [**Mail**](mailto:rednasgamesinfo@gmail.com)
 
 - [**Discord**](https://discord.com/users/478807114752589825)
+
+- [**LinkedIn**](https://www.linkedin.com/in/sander-frenken-071a2157/)
