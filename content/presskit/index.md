@@ -113,7 +113,7 @@ Download all images from zips here:
 
 [part 3 here](images/presskit_part_3.zip)
 
-[PDF](images/screenshots_battledom.pdf)
+[PDF with selected screenshots](images/screenshots_battledom.pdf)
 
 ## Awards & Recognition
 
@@ -137,11 +137,9 @@ N/A
 
 ## About me
 
-I am a part-time game developer when I don't work my other job as an iOS engineer at a bank in the Netherlands.
+When I'm not working as a part-time iOS engineer at a bank in the Netherlands, I dedicate my time to game development. My most important and fulfilling roles, however, are entertaining my two little ones and spending quality time with my wife.
 
-Most important, what also keeps me busy is trying to entertain my two little ones: Oliver and Elisa. And spending time with my lovely wife, Fabienne.
-
-You can find me more about me and my drives [here on my personal blog space](https://sanderfrenken.github.io/dev-blog).
+You can learn more about me and my passion for game development on my [personal blog](https://sanderfrenken.github.io/dev-blog).
 
 ## Contact
 
