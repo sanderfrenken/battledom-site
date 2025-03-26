@@ -105,7 +105,7 @@ Now in Q1 2025 Battledom is nearing completion, at least mechanic wise. Play tes
 
 ## Downloads
 
-Download all images from zips here:
+Download all shown images and more from zips here:
 
 [part 1 here](images/presskit_part_1.zip)
 
